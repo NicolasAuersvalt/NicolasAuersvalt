@@ -1,3 +1,3 @@
 - Future Computer Engineer 💻
-- Python, Hacking(pentest) and Arduino 🦾
+- Python, C++, HTML, Hacking(pentest) and Arduino 🦾
 - Backend 
