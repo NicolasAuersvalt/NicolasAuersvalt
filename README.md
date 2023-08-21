@@ -8,7 +8,7 @@
 
 <br/> 
 
-<h2> Github Stats </h2> 
+<h2> Computer Engineering - UTFPR </h2> 
 <a href="https://github.com/NicolasAuersvalt"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasAuersvalt&layout=compact&theme=tokyonight" /></a>
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanrani&theme=tokyonight" alt="muskanrani" />
 <br/>
