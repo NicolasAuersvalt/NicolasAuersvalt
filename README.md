@@ -12,7 +12,7 @@ Computer Engineering - UTFPR
 <br/> 
 
 <h2> Github Stats </h2> 
-<a href="https://github.com/NicolasAuersvalt"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanrani&layout=compact&theme=tokyonight" /></a>
+<a href="https://github.com/NicolasAuersvalt"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasAuersvalt&layout=compact&theme=tokyonight" /></a>
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanrani&theme=tokyonight" alt="muskanrani" />
 <br/>
 ![](https://visitor-badge.glitch.me/badge?page_id=muskanrani.muskanrani)
