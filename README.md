@@ -6,9 +6,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nic.auersvalt/)
 [![Site](https://img.shields.io/website-down-down-red-red/http/cv.lbesson.qc.to.svg)](https://nicolasauersvalt.herokuapp.com)
 
-
-Computer Engineering - UTFPR
-
 <br/> 
 
 <h2> Github Stats </h2> 
