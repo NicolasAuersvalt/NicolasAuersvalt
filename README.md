@@ -3,7 +3,7 @@
 
 To begin, one of the reasons why I discovered myself was due to Competitive Programming, it's a way to challenge myself every moment. Furthermore I really like to make robots, code and enhance them, so if you want to see all projects which I developed, acess: [Robotics](https://github.com/NicolasAuersvalt/projects/tree/main/cpp)<br>
 If you want to see Arboretum Project, acess: [Arboretum](https://github.com/NicolasAuersvalt/UTFPR/tree/main/Lab_Eletr%C3%B4nica/Arboretum)<br>
-Besides that, I have experience working with Django and PyGame (I developed my game with. Unfortunately, it's not currently available to download).
+In addition, I have experience working with Django and PyGame (I developed my game with. Unfortunately, it's not currently available to download).
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/Nicoau)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
