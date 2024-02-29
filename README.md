@@ -1,8 +1,8 @@
 
 <h2> Computer Engineering - UTFPR </h2> 
 
-To begin, one of the reasons why I discovered myself was due to Competitive Programming, it's a way to challenge myself every moment. Furthermore I really like to make robots, code and enhance them, so if you want to see all projects which I developed, please acess: [Robotics](https://github.com/NicolasAuersvalt/projects/tree/main/cpp)<br>:
-If you want to see Arboretum Project, acess: [Arboretum](https://github.com/NicolasAuersvalt/UTFPR/tree/main/Lab_Eletr%C3%B4nica/Arboretum);
+To begin, one of the reasons why I discovered myself was due to Competitive Programming, it's a way to challenge myself every moment. Furthermore I really like to make robots, code and enhance them, so if you want to see all projects which I developed, please acess: [Robotics](https://github.com/NicolasAuersvalt/projects/tree/main/cpp);<br>
+If you want to see Arboretum Project, acess: [Arboretum](https://github.com/NicolasAuersvalt/UTFPR/tree/main/Lab_Eletr%C3%B4nica/Arboretum);<br>
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/Nicoau)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
