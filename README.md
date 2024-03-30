@@ -16,9 +16,6 @@ In addition, I have experience working with Django and PyGame (I developed my ga
 [![Site](https://img.shields.io/website-down-down-red-red/http/cv.lbesson.qc.to.svg)](https://nicolasauersvalt.herokuapp.com)
 <br/> 
 
-
-<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">
-
 <a href="https://github.com/NicolasAuersvalt"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasAuersvalt&layout=compact&theme=tokyonight" /></a>
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanrani&theme=tokyonight" alt="muskanrani" />
 <br/>
