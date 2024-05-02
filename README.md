@@ -1,7 +1,7 @@
 
 <h2> Computer Engineering - UTFPR </h2> 
 
-To begin, one of the reasons why I discovered myself was due to Competitive Programming, it's a way to challenge myself every moment. Furthermore I really like to make robots, code and enhance them, so if you want to see all projects which I developed, access: <a href="https://github.com/NicolasAuersvalt/projects/tree/main/cpp">Robotics</a>;<br>
+To begin, one of the reasons why I discovered myself was due to Competitive Programming, it's a way to challenge myself every moment. Furthermore I really like to make robots (since 2022, when I developed WitBot), code and enhance them, so if you want to see all projects which I developed, access: <a href="https://github.com/NicolasAuersvalt/projects/tree/main/cpp">Robotics</a>;<br>
 if you want to see Arboretum Project, access: <a href="https://github.com/NicolasAuersvalt/UTFPR/tree/main/1%20Per%C3%ADodo/Lab_Eletr%C3%B4nica/Arboretum">Arboretum</a>;<br>
 <br>
 All of my projects can be seen on my <a href="https://www.instagram.com/nicolasauersvalt/">Personal</a> and on <a href="https://www.instagram.com/nic.auersvalt/">Projects</a> account, <a href="https://www.youtube.com/watch?v=343yUzrjcDY&list=PLwC3YCyq5TS8iRgExZDwvfOmdV3E8IBbG">Youtube</a> channel and <a href="https://www.tinkercad.com/users/7UdW4nG4rjn">Personal</a> and <a href="https://www.tinkercad.com/users/2jIZLDbosYu-nicolas-auersvalt-marques">Student</a> account. <br>
