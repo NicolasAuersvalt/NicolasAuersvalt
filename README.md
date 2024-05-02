@@ -1,13 +1,15 @@
 <h2> Computer Engineering - UTFPR </h2> 
 
-<p>To begin, one of the reasons why I discovered myself was due to Competitive Programming; it's a way to challenge myself at every moment. Furthermore, I really enjoy creating robots (since 2020, when I developed a simple robotic claw in a basic Arduino kit), coding, and enhancing them. If you want to see all the projects I've developed, feel free to check them out:</p>
+<p>Hi there! I'm Nicolas, a Computer Engineering student at UTFPR. I'm passionate about Competitive Programming and Robotics. Since 2020, I've been diving into the world of robotics, starting with a simple robotic claw using an Arduino kit, and I've been hooked ever since. I love coding and enhancing robots to solve real-world problems.</p>
+
+<p>If you're curious about my projects, feel free to explore:</p>
 
 <ul>
   <li>Robotics: <a href="https://github.com/NicolasAuersvalt/projects/tree/main/cpp">GitHub</a></li>
   <li>Arboretum Project: <a href="https://github.com/NicolasAuersvalt/UTFPR/tree/main/1%20Per%C3%ADodo/Lab_Eletr%C3%B4nica/Arboretum">GitHub</a></li>
 </ul>
 
-<p>You can also find all of my projects on my social media accounts:</p>
+<p>You can also connect with me on social media:</p>
 
 <ul>
   <li><a href="https://www.instagram.com/nicolasauersvalt/">Instagram - Personal</a></li>
@@ -17,7 +19,7 @@
   <li><a href="https://www.tinkercad.com/users/2jIZLDbosYu-nicolas-auersvalt-marques">Tinkercad - Student</a></li>
 </ul>
 
-<p>In addition, I have experience working with Django and PyGame. I developed a game with PyGame, although it's not currently available for download.</p>
+<p>Additionally, I have experience with Django and PyGame. While my PyGame project isn't available for download at the moment, I'm always working on new things!</p>
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/Nicoau)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
