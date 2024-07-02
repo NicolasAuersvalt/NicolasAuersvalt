@@ -5,12 +5,12 @@
 <p>If you're curious about my projects, feel free to explore:</p>
 
 <ul>
-  <li>Arboretum Project: <a href="https://github.com/NicolasAuersvalt/UTFPR/tree/main/1%20Per%C3%ADodo/Lab_Eletr%C3%B4nica/Arboretum">GitHub</a></li>
-  <li>mePed V2: <a href="https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/MePad">GitHub</a></li>
-  <li>WitBot: <a href="https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/WitBot">GitHub</a></li>
-  <li>CyberSpider: <a href="https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/Cyber_aranha">GitHub</a></li>
-  <li>ATJ-23: <a href="https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/ATJ-23">GitHub</a></li>
-  <li>whiteBerry: <a href="https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/whiteBerry">GitHub</a></li>
+  <li><a href="https://github.com/NicolasAuersvalt/UTFPR/tree/main/1%20Per%C3%ADodo/Lab_Eletr%C3%B4nica/Arboretum">Arboretum Project</a></li>
+  <li><a href="https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/MePad">mePed V2</a></li>
+  <li><a href="https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/WitBot">WitBot</a></li>
+  <li><a href="https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/Cyber_aranha">CyberSpider</a></li>
+  <li><a href="https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/ATJ-23">ATJ-23</a></li>
+  <li><a href="https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/whiteBerry">whiteBerry</a></li>
 </ul>
 
 
