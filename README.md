@@ -5,7 +5,7 @@
 <p>If you're curious about my projects, feel free to explore:</p>
 
 <ul>
-  <li>Robotics: <a href="https://github.com/NicolasAuersvalt/projects/tree/main/cpp">GitHub</a></li>
+  <li>CyberSpider: <a href="https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/Cyber_aranha">GitHub</a></li>
   <li>Arboretum Project: <a href="https://github.com/NicolasAuersvalt/UTFPR/tree/main/1%20Per%C3%ADodo/Lab_Eletr%C3%B4nica/Arboretum">GitHub</a></li>
 </ul>
 
