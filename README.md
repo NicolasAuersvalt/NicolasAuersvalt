@@ -4,7 +4,7 @@
 
 <p>If you're curious about my projects, feel free to explore:</p>
 
-   [![Site](https://img.shields.io/website-down-down-red-red/http/cv.lbesson.qc.to.svg)](https://blushing-tractor-81c.notion.site/N-colas-Portfolio-de06859037a146efa52d0ca7f7916dbe?pvs=4)
+   [![Site](https://img.shields.io/website-up-up-green-green/http/cv.lbesson.qc.to.svg)](https://blushing-tractor-81c.notion.site/N-colas-Portfolio-de06859037a146efa52d0ca7f7916dbe?pvs=4)
  
 - [Arboretum Project](https://github.com/NicolasAuersvalt/UTFPR/tree/main/1%20Per%C3%ADodo/Lab_Eletr%C3%B4nica/Arboretum)
 - [mePed V2](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/MePad)
