@@ -1,5 +1,10 @@
 <h2> Computer Engineering - UTFPR </h2> 
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nícolas+Auersvalt!;" />
+</h1>
+
+
 <p>Hi there! I'm Nicolas, a Computer Engineering student at UTFPR. I'm passionate about Competitive Programming and Robotics. Since 2020, I've been diving into the world of robotics, starting with a simple robotic claw using an Arduino kit, and I've been hooked ever since. I love coding and enhancing robots to solve real-world problems.</p>
 
 <p>If you're curious about my projects, feel free to explore:</p>
