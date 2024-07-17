@@ -1,8 +1,23 @@
-<h2> Computer Engineering - UTFPR </h2> 
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nícolas+Auersvalt!;" />
 </h1>
+
+<div align="center">
+ 
+ 📚 I’m currently studying at **Federal University of Technology - Paraná (Curitiba)**
+ 
+ 🌱 I’m currently learning **Java, Competitive Programming, Data Structures 2**
+
+ 🤖 My Robotic Projects
+- [Arboretum Project](https://github.com/NicolasAuersvalt/UTFPR/tree/main/1%20Per%C3%ADodo/Lab_Eletr%C3%B4nica/Arboretum)
+- [mePed V2](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/MePad)
+- [WitBot](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/WitBot)
+- [CyberSpider](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/Cyber_aranha)
+- [ATJ-23](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/ATJ-23)
+- [whiteBerry](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/whiteBerry)
+
+ </div>
+
 
 
 <p>Hi there! I'm Nicolas, a Computer Engineering student at UTFPR. I'm passionate about Competitive Programming and Robotics. Since 2020, I've been diving into the world of robotics, starting with a simple robotic claw using an Arduino kit, and I've been hooked ever since. I love coding and enhancing robots to solve real-world problems.</p>
@@ -11,12 +26,7 @@
 
    [![Site](https://img.shields.io/website-up-up-green-green/http/cv.lbesson.qc.to.svg)](https://blushing-tractor-81c.notion.site/N-colas-Portfolio-de06859037a146efa52d0ca7f7916dbe?pvs=4)
  
-- [Arboretum Project](https://github.com/NicolasAuersvalt/UTFPR/tree/main/1%20Per%C3%ADodo/Lab_Eletr%C3%B4nica/Arboretum)
-- [mePed V2](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/MePad)
-- [WitBot](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/WitBot)
-- [CyberSpider](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/Cyber_aranha)
-- [ATJ-23](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/ATJ-23)
-- [whiteBerry](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/whiteBerry)
+
 
 
 
