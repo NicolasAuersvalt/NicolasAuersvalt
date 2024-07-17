@@ -41,10 +41,12 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-NicolasAuersvalt.vercel.app/?user=NicolasAuersvalt&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-NicolasAuersvalt.vercel.app/api?username=NicolasAuersvalt&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-NicolasAuersvalt.vercel.app/api/top-langs/?username=NicolasAuersvalt&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+<a href="https://github.com/NicolasAuersvalt">
+    <img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasAuersvalt&layout=compact&theme=tokyonight" />
+  </a>
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasAuersvalt&theme=tokyonight" alt="NicolasAuersvalt" />
+  
 </div>
 
 <br/><br/>
@@ -57,10 +59,7 @@
 <br/> 
 
 <div>
-  <a href="https://github.com/NicolasAuersvalt">
-    <img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasAuersvalt&layout=compact&theme=tokyonight" />
-  </a>
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasAuersvalt&theme=tokyonight" alt="NicolasAuersvalt" />
+  
 </div>
 
 <br/>
