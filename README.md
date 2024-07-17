@@ -8,6 +8,8 @@
  
  🌱 I’m currently learning **Java, Competitive Programming, Data Structures 2**
 
+ ♟ I've experience with Django and PyGame.
+
  🤖 My Robotic Projects
 -[Arboretum](https://github.com/NicolasAuersvalt/UTFPR/tree/main/1%20Per%C3%ADodo/Lab_Eletr%C3%B4nica/Arboretum) - [mePed V2](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/MePad) - [WitBot](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/WitBot) - [CyberSpider](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/Cyber_aranha) - [ATJ-23](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/ATJ-23) - [whiteBerry](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/whiteBerry) 
  </div>
@@ -23,8 +25,6 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-
-<p>Additionally, I have experience with Django and PyGame. While my PyGame project isn't available for download at the moment, I'm always working on new things!</p>
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/Nicoau)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
