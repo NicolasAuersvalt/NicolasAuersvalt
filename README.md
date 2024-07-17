@@ -24,21 +24,6 @@
   </a>
 </div>
 
- 
-
-
-
-
-<p>You can also connect with me on social media:</p>
-
-<ul>
-  <li><a href="https://www.instagram.com/nicolasauersvalt/">Instagram - Personal</a></li>
-  <li><a href="https://www.instagram.com/nic.auersvalt/">Instagram - Projects</a></li>
-  <li><a href="https://www.youtube.com/watch?v=343yUzrjcDY&list=PLwC3YCyq5TS8iRgExZDwvfOmdV3E8IBbG">YouTube Channel</a></li>
-  <li><a href="https://www.tinkercad.com/users/7UdW4nG4rjn">Tinkercad - Personal</a></li>
-  <li><a href="https://www.tinkercad.com/users/2jIZLDbosYu-nicolas-auersvalt-marques">Tinkercad - Student</a></li>
-</ul>
-
 <p>Additionally, I have experience with Django and PyGame. While my PyGame project isn't available for download at the moment, I'm always working on new things!</p>
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/Nicoau)
