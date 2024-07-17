@@ -4,7 +4,7 @@
 
 <div align="center">
  
- 📚 I’m currently studying ** Computer Engineering ** at **Federal University of Technology - Paraná (Curitiba)**
+ 📚 I’m currently studying **Computer Engineering** at **Federal University of Technology - Paraná (Curitiba)**
  
  🌱 I’m currently learning **Java, Competitive Programming and Data Structures 2.**
 
