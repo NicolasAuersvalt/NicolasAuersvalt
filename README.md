@@ -10,7 +10,7 @@
 
  ♟ I have experience with Django and PyGame.
 
- 🤖 My Robotic Projects: [Arboretum](https://github.com/NicolasAuersvalt/UTFPR/tree/9560a14573f0080740715d2f569a1e0a4c6d04b9/1%20Periodo/Lab_Eletr%C3%B4nica/Arboretum) - [mePed V2](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/MePad) - [WitBot](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/WitBot) - [CyberSpider](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/Cyber_aranha) - [ATJ-23](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/ATJ-23) - [whiteBerry](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/whiteBerry) 
+ 🤖 My Robotic Projects: [Arboretum](https://github.com/NicolasAuersvalt/UTFPR/tree/main/1%20Periodo/Lab_Eletr%C3%B4nica/Arboretum) - [mePed V2](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/MePad) - [WitBot](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/WitBot) - [CyberSpider](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/Cyber_aranha) - [ATJ-23](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/ATJ-23) - [whiteBerry](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/whiteBerry) 
  </div>
 
  <div align="center"> 
@@ -48,7 +48,6 @@
 <br/><br/>
 
 <hr/>
-
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
