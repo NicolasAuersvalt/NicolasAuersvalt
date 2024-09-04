@@ -6,7 +6,7 @@
  
  📚 I’m currently studying **Computer Engineering** at **Federal University of Technology - Paraná (Curitiba)**
  
- 🌱 I’m currently learning **Java, Competitive Programming and Data Structures 2.**
+ 🌱 I’m currently learning **Competitive Programming and Data Structures 2.**
 
  ♟ I have experience with Django, Streamlit and PyGame.
 
