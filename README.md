@@ -12,7 +12,7 @@
 
  🤖 My Robotic Projects: [Arboretum](https://github.com/NicolasAuersvalt/UTFPR/tree/main/1%20Periodo/Lab_Eletr%C3%B4nica/Arboretum) - [mePed V2](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/MePad) - [WitBot](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/WitBot) - [CyberSpider](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/Cyber_aranha) - [ATJ-23](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/ATJ-23) - [whiteBerry](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/whiteBerry) 
 
- 🖥 My AI and Software Projects: [IrisDataMachineLearning](https://github.com/NicolasAuersvalt/UTFPR/tree/ddfdaa5fa896be11c9446425c36977706078fb90/2%20Periodo/Estat%C3%ADstica/IrisData) - [Statistic WebApp]()
+ 🖥 My AI and Software Projects: [IrisData](https://github.com/NicolasAuersvalt/UTFPR/tree/ddfdaa5fa896be11c9446425c36977706078fb90/2%20Periodo/Estat%C3%ADstica/IrisData) - [Statistic WebApp]()
  </div>
 
  <div align="center"> 
