@@ -31,7 +31,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,bootstrap,html,css,sklearn" />
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,vim,powershell,git,kali,apple" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,vim,neovim,powershell,git,kali,apple" /><br>
 </div>
 
 <br/>
