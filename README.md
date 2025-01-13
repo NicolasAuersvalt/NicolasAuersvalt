@@ -46,7 +46,7 @@
 <a href="https://github.com/NicolasAuersvalt">
     <img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasAuersvalt&layout=compact&theme=dark" />
   </a>
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasAuersvalt&theme=dark" alt="NicolasAuersvalt" />
+  <img width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=NicolasAuersvalt&theme=dark" alt="NicolasAuersvalt" />
   
 </div>
 
