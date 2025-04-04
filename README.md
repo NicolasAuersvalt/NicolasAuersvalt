@@ -33,8 +33,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,bootstrap,html,arduino,sklearn,django" />
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,cmake,vim,neovim,powershell,git,linux,apple" /><br>
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,bootstrap,html,arduino,ros,django" />
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,cmake,vim,neovim,powershell,git,sklearn,linux,apple" /><br>
 </div>
 
 <br/>
