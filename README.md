@@ -59,10 +59,6 @@
 
 ![Snake animation](https://github.com/NicolasAuersvalt/NicolasAuersvalt/blob/output/github-contribution-grid-snake.svg)
 
-<picture>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NicolasAuersvalt/NicolasAuersvalt/output/github-contribution-grid-snake.svg">
-</picture>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </p>
