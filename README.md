@@ -6,6 +6,8 @@
  
  📚 I’m currently studying **Computer Engineering** at **Federal University of Technology - Paraná (Curitiba)**
 
+![Estatísticas](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/NicolasAuersvalt/Competitive-Programming/main/stats.json)
+
  🌱 I’m currently learning **Competitive Programming** and **ROS (MAVROS and PX4)**
 
  ♟ I have experience with Django, Streamlit and PyGame.
