@@ -2,11 +2,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=EC8404&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nícolas+Auersvalt!;" />
 </h1>
 
+![Estatísticas](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/NicolasAuersvalt/Competitive-Programming/main/stats.json)
+
 <div align="center">
  
  📚 I’m currently studying **Computer Engineering** at **Federal University of Technology - Paraná (Curitiba)**
- 
-![Estatísticas](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/NicolasAuersvalt/Competitive-Programming/main/stats.json)
 
  🌱 I’m currently learning **Competitive Programming** and **ROS2 (PX4)**
 
