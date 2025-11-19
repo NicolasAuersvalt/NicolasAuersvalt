@@ -25,6 +25,10 @@ Third Place CBR 2025 (Bronze Trophy) - Flying Robots League
 
 First Problem Solved UTF.c 2024
 
+</div>
+
+<br/>
+
 
  <div align="center"> 
   <a href="mailto:nicolasauersvalt@icloud.com">
