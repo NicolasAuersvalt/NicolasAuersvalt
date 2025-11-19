@@ -55,7 +55,9 @@
 
 <hr/>
 
-### 🐍 Minhas Contribuições
+<h2 align="center"> My Contributions ⚡</h2>
+<br>
+<div align=center>
 
 ![Snake animation](https://github.com/NicolasAuersvalt/NicolasAuersvalt/blob/output/github-contribution-grid-snake.svg)
 
