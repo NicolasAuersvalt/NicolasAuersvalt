@@ -5,8 +5,10 @@
 <div align="center">
  
  📚 I’m currently studying **Computer Engineering** at **Federal University of Technology - Paraná (Curitiba)**
-
+ 
+<h1 align="center">
 ![Estatísticas](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/NicolasAuersvalt/Competitive-Programming/main/stats.json)
+<div align="center">
 
  🌱 I’m currently learning **Competitive Programming** and **ROS (MAVROS and PX4)**
 
