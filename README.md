@@ -11,17 +11,15 @@
 
  ♟ I have experience with Embedded Systems, Computer Vision and Simulation (Gazebo).
 
- Third Place CBR 2025 (Bronze Trophy)
-
  🤖 My Robotic Projects: [CriminalPlotter](https://github.com/NicolasAuersvalt/CriminalPlotter) - [Arboretum 樹木園](https://github.com/NicolasAuersvalt/UTFPR/tree/main/1%20Periodo/Lab_Eletr%C3%B4nica/Arboretum) - [mePed V2](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/MePad) - [WitBot](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/WitBot) - [CyberSpider](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/Cyber_aranha) - [ATJ-23](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/ATJ-23) - [whiteBerry](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/whiteBerry) 
 
  🖥 My Software Projects: [WebApp](https://webappauersvalt.streamlit.app/) - [Lambda Laboratory](https://auersvaltcomputacaografica.streamlit.app/) - [Stocky](https://stockyapp.streamlit.app/)
 
 <h2 align="center">⚡ Recognitions ⚡</h2>
 
-Third Place CBR 2025 (Bronze Trophy) - Flying Robots League
+🥉 **Third Place (Bronze Trophy)** CBR 2025 (GralhaBots) - Flying Robots League
 
-First Problem Solved UTF.c 2024
+🎖️ **First Problem Solved** - UTF.c 2024
 
  <div align="center"> 
   <a href="mailto:nicolasauersvalt@icloud.com">
