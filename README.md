@@ -18,17 +18,10 @@
  🖥 My Software Projects: [WebApp](https://webappauersvalt.streamlit.app/) - [Lambda Laboratory](https://auersvaltcomputacaografica.streamlit.app/) - [Stocky](https://stockyapp.streamlit.app/)
 
 <h2 align="center">⚡ Recognitions ⚡</h2>
-<br>
-<div align=center>
 
 Third Place CBR 2025 (Bronze Trophy) - Flying Robots League
 
 First Problem Solved UTF.c 2024
-
-</div>
-
-<br/>
-
 
  <div align="center"> 
   <a href="mailto:nicolasauersvalt@icloud.com">
