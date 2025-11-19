@@ -60,7 +60,6 @@
 ![Snake animation](https://github.com/NicolasAuersvalt/NicolasAuersvalt/blob/output/github-contribution-grid-snake.svg)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NicolasAuersvalt/NicolasAuersvalt/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NicolasAuersvalt/NicolasAuersvalt/output/github-contribution-grid-snake.svg">
 </picture>
 
