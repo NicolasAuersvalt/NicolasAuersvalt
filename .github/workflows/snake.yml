@@ -1,14 +1,9 @@
-name: Generate Snake
+name: Generate Snake (Light Only)
 
 on:
-  # Executa automaticamente a cada 12 horas
   schedule:
     - cron: "0 */12 * * *" 
-  
-  # Permite rodar manualmente na aba Actions
   workflow_dispatch:
-  
-  # Roda em todo push na branch master/main
   push:
     branches:
     - master
@@ -22,19 +17,16 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # Gera a cobrinha
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-      # Envia os arquivos gerados para a branch "output"
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
