@@ -9,7 +9,7 @@
 
  🌱 I’m currently learning **Competitive Programming** and **ROS2 (PX4)**
 
- ♟ I have experience with Embedded Systems, Computer Vision and Simulation (Gazebo).
+ ♟ I have experience with Embedded Systems (Unmanned Aerial Vehicle), Computer Vision and Simulation (Gazebo).
 
  🤖 My Robotic Projects: [CriminalPlotter](https://github.com/NicolasAuersvalt/CriminalPlotter) - [Arboretum 樹木園](https://github.com/NicolasAuersvalt/UTFPR/tree/main/1%20Periodo/Lab_Eletr%C3%B4nica/Arboretum) - [mePed V2](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/MePad) - [WitBot](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/WitBot) - [CyberSpider](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/Cyber_aranha) - [ATJ-23](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/ATJ-23) - [whiteBerry](https://github.com/NicolasAuersvalt/Projects/tree/main/Rob%C3%B3tica/whiteBerry) 
 
