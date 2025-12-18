@@ -21,6 +21,8 @@
 
 🎖️ **First Problem Solved** - UTF.c 2024
 
+🎖️ **First Problem Solved** - UTF.c 2025
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
