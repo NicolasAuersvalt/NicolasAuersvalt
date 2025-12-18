@@ -19,9 +19,9 @@
 
 🥉 **Third Place (Bronze Trophy)** CBR 2025 (GralhaBots) - Flying Robots League
 
-🎖️ **First Problem Solved** - UTF.c 2024
-
 🎖️ **First Problem Solved** - UTF.c 2025
+
+🎖️ **First Problem Solved** - UTF.c 2024
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
